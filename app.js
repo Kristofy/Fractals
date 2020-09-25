@@ -139,7 +139,7 @@ function preload(){
 }
 
 function setup(){
-  let C = createCanvas(400, 400);
+  let C = createCanvas(800, 800);
   C.parent('parent');
 }
 
